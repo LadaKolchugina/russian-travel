@@ -1,0 +1,13 @@
+.place__website {
+    font-family: 'Inter Regular', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    align-self: end;
+  }
+
+  @media screen and (max-width: 660px) {
+    .place__website {
+      align-self: flex-start;
+      margin-left: 16px;
+    }
+  }
