@@ -24,7 +24,7 @@
 @import url(../blocks/intro/__content/intro__content.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-text/intro__list-text.css);
-@import url(../blocks/intro/__list-text/__list-text_span-accent/intro__list-text_span-accent.css);
+@import url(../blocks/intro/__list-text/_span-accent/intro__list-text_span-accent.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__title/intro__title.css);
 
