@@ -1,5 +1,5 @@
 .place__paragraph {
-    font-family: 'Inter Regular', Arial, sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
     margin: 0;
     margin-bottom: 26px;
     padding: 0;
@@ -24,7 +24,6 @@
   @media screen and (max-width: 660px) {
     .place__paragraph {
       margin-bottom: 25px;
-      font-size: 16px;
       line-height: 26px;
       margin-left: 16px;
       margin-right: 16px;

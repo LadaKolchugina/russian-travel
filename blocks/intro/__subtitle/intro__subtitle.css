@@ -1,5 +1,5 @@
 .intro__subtitle {
-    font-family: 'Inter Regular', Arial, sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
     margin: 0;
     margin-bottom: 33px;
     padding: 0;
@@ -12,7 +12,6 @@
   @media screen and (max-width: 350px) {
     .intro__subtitle {
       margin-bottom: 34px;
-      font-size: 16px;
       line-height: 26px;
     }
   }

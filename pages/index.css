@@ -11,22 +11,20 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-@import url(../blocks/footer/__copyrights/footer__copyrights.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/header__lang-link_active.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__logo/header__logo.css);
 
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__content/intro__content.css);
-@import url(../blocks/intro/__list-text/intro__list-text.css);
-@import url(../blocks/intro/__list-text/__list-text_weight/intro__list-text_weight_bold.css);
-@import url(../blocks/intro/__list-text/__list-text_weight/intro__list-text_weight_regular.css);
 @import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list-text/intro__list-text.css);
+@import url(../blocks/intro/__list-text/__list-text_span-accent/intro__list-text_span-accent.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__title/intro__title.css);
 
